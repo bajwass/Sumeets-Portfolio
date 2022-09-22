@@ -10,12 +10,12 @@ const Hero = () => (
       <SectionText main center>
         <SectionTitle>
           Hi my name is Sumeet Bajwa, <br />
-          And this is my portfolio
+          Welcome to my Portfolio!
         </SectionTitle>
         <SectionText>
           This portfolio will showcase my completed projects and skills.
         </SectionText>
-        <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
+        <Button onClick={() => window.location = 'https://google.com'}>Profile Picture Here</Button>
       </SectionText>
     </LeftSection>
   </Section>
